@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]  
+# 👋 Hello! I'm Felipe Miranda 
 ### *Data Analyst | Former Sound Technician*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-miranda-da/)
