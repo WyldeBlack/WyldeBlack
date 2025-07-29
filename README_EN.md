@@ -32,8 +32,14 @@ Now I leverage these skills to **transform raw data into actionable insights**.
 
 ---
 
-## 📂 **Featured Projects** (Coming Soon!)  
-*I'm currently working on data analysis projects that will be showcased here soon. Stay tuned!*  
+## 📂 **1. TripleTen Final Project** (Telecommunications Analysis)  [View on GitHub](https://github.com/WyldeBlack/Proyecto-Final-Telecomunicaciones)  
+**Tech Stack**:  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+
+**Key Achievements**:
+- Performed ETL on telecommunications datasets to identify underperforming carriers
+- Developed interactive Tableau dashboard with KPIs for operational efficiency
+- Implemented Python automation for data cleaning (Pandas) and visualization (Matplotlib)
 
 ---
 
