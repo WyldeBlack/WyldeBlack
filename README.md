@@ -34,14 +34,10 @@ Hoy aplico estas competencias en el **análisis de datos**, transformando inform
 
 ## 📂 **Proyectos Destacados**  
 
-### 1. [Nombre del Proyecto](https://github.com/tu-usuario/repo)  
-*Herramientas: Python (Pandas, Matplotlib), SQL*  
-- Análisis de dataset de [tema] para identificar [objetivo].  
-- Creación de dashboard interactivo en Tableau/Power BI.  
-
-### 2. [Nombre del Proyecto](https://github.com/tu-usuario/repo)  
-*Herramientas: SQL, Power BI*  
-- Limpieza de datos con SQL y automatización de reportes.  
+### 1. Proyecto Final TripleTen (https://github.com/WyldeBlack/Proyecto-Final-Telecomunicaciones)
+*Herramientas: Python (Pandas, Matplotlib), Tableau*  
+- Análisis de datasets de telecomunicaciones para identificar operadores ineficaces.  
+- Creación de dashboard interactivo en Tableau.  
 
 ---
 
