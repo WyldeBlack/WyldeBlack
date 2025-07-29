@@ -34,10 +34,16 @@ Hoy aplico estas competencias en el **análisis de datos**, transformando inform
 
 ## 📂 **Proyectos Destacados**  
 
-### 1. Proyecto Final TripleTen (https://github.com/WyldeBlack/Proyecto-Final-Telecomunicaciones)
-*Herramientas: Python (Pandas, Matplotlib), Tableau*  
-- Análisis de datasets de telecomunicaciones para identificar operadores ineficaces.  
-- Creación de dashboard interactivo en Tableau.  
+### 1. Proyecto Final TripleTen (Análisis de Telecomunicaciones)  
+🔗 [Ver en GitHub](https://github.com/WyldeBlack/Proyecto-Final-Telecomunicaciones)  
+
+**Tecnologías**:  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+
+**Logros clave**:
+- Procesamiento ETL de datasets de telecomunicaciones para identificar operadores ineficientes
+- Desarrollo de dashboard interactivo en Tableau con KPIs de eficiencia operacional
+- Automatización con Python para limpieza de datos (Pandas) y visualizaciones (Matplotlib)
 
 ---
 
