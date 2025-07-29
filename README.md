@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-miranda-da/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmirandah@gmail.com)
 
-[![English Version](https://img.shields.io/badge/Read_in_English-FFFFFF?style=for-the-badge&logoColor=blue)](README_EN.md) 
+[![English Version](https://img.shields.io/badge/Read_in_English-FFFFFF?style=for-the-badge&logoColor=blue)](https://github.com/WyldeBlack/WyldeBlack/blob/main/README_EN.md)
 ---
 ## 🚀 **Sobre Mí**  
 Soy un **Analista de Datos certificado por TripleTen** con una trayectoria previa de **15+ años en radiodifusión** (Radio Agricultura, ADN, Radio María). Mi experiencia técnica en entornos de alta presión me permitió desarrollar:  
