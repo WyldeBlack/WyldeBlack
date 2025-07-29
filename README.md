@@ -1,6 +1,9 @@
 # Hola! 👋 Soy Felipe Miranda
 ### *Data Analist | Ex-Técnico en Sonido*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.[linkedin.com/in/tu-perfil](https://www.linkedin.com/in/felipe-miranda-da/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmirandah@gmail.com)
+
 ---
 ## 🚀 **Sobre Mí**  
 Soy un **Analista de Datos certificado por TripleTen** con una trayectoria previa de **15+ años en radiodifusión** (Radio Agricultura, ADN, Radio María). Mi experiencia técnica en entornos de alta presión me permitió desarrollar:  
@@ -50,8 +53,8 @@ Hoy aplico estas competencias en el **análisis de datos**, transformando inform
 
 ## 📫 **Contacto**  
 ¡Hablemos de datos, tecnología o incluso de música! :)  
-- ✉️ **Email**: [tu-email@gmail.com](mailto:tu-email@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil/)  
+- ✉️ **Email**: [fmirandah@gmail.com](mailto:fmirandah@gmail.com)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/felipe-miranda-da/](https://www.linkedin.com/in/felipe-miranda-da/)
 
 ---
 
