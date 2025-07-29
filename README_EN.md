@@ -1,8 +1,8 @@
 # 👋 Hello! I'm [Your Name]  
 ### *Data Analyst | Former Sound Technician*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-miranda-da/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmirandah@gmail.com)
 
 ---
 
@@ -38,14 +38,14 @@ Now I leverage these skills to **transform raw data into actionable insights**.
 ## 🌟 **Why Work With Me?**  
 - 🔍 **Detail-oriented**: Trained to spot patterns in chaos.  
 - 📈 **Results-driven**: Dashboards designed for decision-making.  
-- 🌱 **Lifelong learner**: Currently mastering [new skills you're learning].  
+- 🌱 **Lifelong learner**: Currently mastering Microsoft Excel, Microsoft Power Query, Microsoft Power BI, SQL.  
 
 ---
 
 ## 📫 **Let's Connect!**  
 Let's talk about data, tech, or even music! :)  
-- ✉️ **Email**: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile/)  
+- ✉️ **Email**: [fmirandah@gmail.com](mailto:fmirandah@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/felipe-miranda-da](https://www.linkedin.com/in/felipe-miranda-da/)  
 
 --- 
 
