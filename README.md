@@ -1,7 +1,7 @@
 # Hola! 👋 Soy Felipe Miranda
 ### *Data Analist | Ex-Técnico en Sonido*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.[linkedin.com/in/tu-perfil](https://www.linkedin.com/in/felipe-miranda-da/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.[https://www.linkedin.com/in/felipe-miranda-da/](https://www.linkedin.com/in/felipe-miranda-da/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmirandah@gmail.com)
 
 ---
