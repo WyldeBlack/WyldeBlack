@@ -1,5 +1,6 @@
 # Hola! 👋 Soy Felipe Miranda
 ### *Data Analist | Ex-Técnico en Sonido*
+![Banner](https://github.com/WyldeBlack/WyldeBlack/blob/main/github_banner.png)  
 
 ---
 ## 🚀 **Sobre Mí**  
