@@ -1,5 +1,8 @@
 # Hola! 👋 Soy Felipe Miranda
 ### *Data Analist | Ex-Técnico en Sonido*
+[![English Version](https://img.shields.io/badge/Read_in_English-FFFFFF?style=for-the-badge&logoColor=blue)](README_EN.md) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-miranda-da/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmirandah@gmail.com)
 
 ---
 ## 🚀 **Sobre Mí**  
@@ -55,6 +58,4 @@ Hoy aplico estas competencias en el **análisis de datos**, transformando inform
 
 ---
 
-> *"De la radio a los datos: transformo el ruido en información valiosa."*  
-
-[![English Version](https://img.shields.io/badge/Read_in_English-FFFFFF?style=for-the-badge&logoColor=blue)](README_EN.md)  
+> *"De la radio a los datos: transformo el ruido en información valiosa."*   
